@@ -84,9 +84,8 @@ export default function LandingPage() {
           tincidunt nunc pulvinar sapien et ligula ullamcorper.
         </p>
         <div className='flex items-center justify-center mt-4'>
-          <input className='h-10 mt-4' type='text'></input>
-          <div className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 border border-blue-700 rounded h-10 mt-4'>
-            <button class=' text-xs'>Sign up</button>
+          <div className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 border border-blue-700 rounded h-10 ml-auto mr-auto'>
+            <button class=' text-xs mb-99px'>Sign Up</button>
           </div>
         </div>
       </div>
